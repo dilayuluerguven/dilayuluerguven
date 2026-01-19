@@ -22,8 +22,8 @@
 - 🌱 I’m currently learning **Angular, ASP.NET Core, Clean Architecture, and GIS technologies**
 - 💬 Ask me about **React, Angular, C#, Python, and TypeScript**
 - 🎓 **Konya Technical University** Software Engineering Student (4th Year)
-- 📫 How to reach me: **uluerguven245@mail.com**
-- ⚡ **Fun fact:** I own an HP Victus laptop and I post cosmetic content on TikTok!
+- 📫 How to reach me: **uluerguven245@gmail.com**
+- ⚡ Fun fact: I break things until I understand them then I fix them :)
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,bootstrap,nodejs,express,mongodb,mysql,postgres,py,cs,dotnet,qt" />
