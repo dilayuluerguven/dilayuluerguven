@@ -22,11 +22,17 @@
   <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,bootstrap,nodejs,express,mongodb,mysql,postgres,py,cs,dotnet,qt" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dilayuluerguven&layout=compact&theme=dark" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dilayuluerguven&layout=compact&theme=dark" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=dilayuluerguven&show_icons=true&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilayuluerguven&show_icons=true&theme=dark" />
+  <img src="https://raw.githubusercontent.com/dilayuluerguven/dilayuluerguven/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
