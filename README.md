@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://www.linkedin.com/in/dilay-uluerg%C3%BCven-2b484125b/" target="_blank">
     <img
@@ -7,7 +6,6 @@
     />
   </a>
 </p>
-
 
 <h1 align="center">Hi 👋, I'm Dilay</h1>
 <h3 align="center">A passionate Full Stack Developer based in Türkiye.</h3>
@@ -20,13 +18,14 @@
 
 - 🔭 I’m currently working on **Real Estate Management System** and a **Machine Learning project**
 - 🌱 I’m currently learning **Angular, ASP.NET Core, Clean Architecture, and GIS technologies**
-- 💬 Ask me about **React, Angular, C#, Python, and TypeScript**
+- 💬 Ask me about **React, Angular, C#, Python, TypeScript, and Docker**
 - 🎓 **Konya Technical University** Software Engineering Student (4th Year)
 - 📫 How to reach me: **uluerguven245@gmail.com**
 - ⚡ Fun fact: I break things until I understand them then I fix them :)
 
+### 🛠 Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,bootstrap,nodejs,express,mongodb,mysql,postgres,py,cs,dotnet,qt" />
+  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,bootstrap,nodejs,express,mongodb,mysql,postgres,py,cs,dotnet,qt,figma,docker,sonarqube" />
 </p>
 
 <table align="center">
