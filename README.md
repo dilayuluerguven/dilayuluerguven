@@ -1,7 +1,14 @@
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQGluvvUIWn-NQ/profile-displayphoto-scale_400_400/B56ZhiplzDG4Ao-/0/1754001731465?e=2147483647&v=beta&t=h_76YrIHROxlPeHInbiSllw1Imzkq3xYizrspC1i1z8" alt="MasterHead" />
+  <a href="https://www.linkedin.com/in/dilay-uluerg%C3%BCven-2b484125b/" target="_blank">
+    <img
+      src="https://media.licdn.com/dms/image/v2/D5603AQGluvvUIWn-NQ/profile-displayphoto-scale_400_400/B56ZhiplzDG4Ao-/0/1754001731465?e=2147483647&v=beta&t=h_76YrIHROxlPeHInbiSllw1Imzkq3xYizrspC1i1z8"
+      width="160"
+    />
+  </a>
 </p>
+
+
 <h1 align="center">Hi 👋, I'm Dilay</h1>
 <h3 align="center">A passionate Full Stack Developer based in Türkiye.</h3>
 
